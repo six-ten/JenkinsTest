@@ -8,7 +8,7 @@ pipeline{
       
         steps{
         
-          dir
+          echo "hello this is expecting a linux shell"
         
         }
       
